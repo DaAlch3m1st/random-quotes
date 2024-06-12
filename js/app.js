@@ -1,0 +1,1 @@
+let quotes = ['Be yourself; everyone else is already taken.', 'Im selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you cant handle me at my worst, then you sure as hell dont deserve me at my best.'];
