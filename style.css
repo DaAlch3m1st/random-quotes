@@ -1,4 +1,23 @@
 * {
     margin: 0;
     padding: 0;
+  }
+  
+  #container {
+    width: 700px;
+    padding: 100px;
+    border-style: solid;
+    display: flex;
+  }
+
+button {
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background-color: #03989e;
+    color: #fff;
+    
 }
+  
